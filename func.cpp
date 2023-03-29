@@ -7,7 +7,7 @@ using namespace std;
 
 const int length = 5;
 void Date() {
-	int date1 = 0, date2 = 0, day1 = 0, day2 = 0, month1 = 0, month2 = 0, year1 = 0, year2 = 0;
+	int day1 = 0, day2 = 0, month1 = 0, month2 = 0, year1 = 0, year2 = 0;
 	int number = 0;
 	cout << "Первая дата\n";
 	cout << "Введите год:\n";
